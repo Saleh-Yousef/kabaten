@@ -1,0 +1,21 @@
+{
+    "LoginScreen_Welcom":"! اهلا بك",
+    "LoginScreen_ToKeepConnecting":"للبقاء على اتصال معنا",
+    "LoginScreen_PleaseLoginWith":"الرجاء تسجيل الدخول ببياناتك الشخصية",
+    "LoginScreen_UserName":"اسم االمستخدم",
+    "LoginScreen_Password":"كلمة المرور",
+    "LoginScreen_SIGNIN":"تسجيل الدخول",
+    "LoginScreen_PleaseEnterUserName":"الرجاء إدخال اسم المستخدم",
+    "LoginScreen_PleaseEnterPassword":"الرجاء إدخال كلمة المرور",
+    "LoginScreen_DontHaveAccount": "لا يوجد لديك حساب؟",
+    "LoginScreen_SignUp": "سجل الآن",
+
+    "SignUpScreen_CreateAnAccount": "انشئ حساب",
+    "SignUpScreen_Email": "البريد",
+    "SignUpScreen_Password": "رمز الدخول",
+    "SignUpScreen_Must_be_at_least_8_characters": "رمز الدخول يجب ان يحتوي على ٨ خانات حرف صغير وكبير ورقم ورمز",
+
+    "HomeScreen_Settings":"إعدادات",
+    "HomeScreen_Profile":"الحساب"
+   
+}

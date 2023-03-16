@@ -1,0 +1,48 @@
+{
+    "LoginScreen_Welcom":"WELCOME BACK !",
+    "LoginScreen_ToKeepConnecting":"To keep connected with us",
+    "LoginScreen_PleaseLoginWith":"Please login with your personal details",
+    "LoginScreen_UserName":"Email",
+    "LoginScreen_Password":"Password",
+    "LoginScreen_SIGNIN":"SIGN IN",
+    "LoginScreen_PleaseEnterUserName":"Please enter user name",
+    "LoginScreen_PleaseEnterPassword":"Please enter password",
+    "LoginScreen_DontHaveAccount": "Don't have an Account?",
+    "LoginScreen_SignUp": "Sign Up",
+
+    "SignUpScreen_CreateAnAccount": "Create an Account",
+    "SignUpScreen_Email": "Email",
+    "SignUpScreen_Password": "Password",
+    "SignUpScreen_FullName": "Full Name",
+    "SignUpScreen_DOB": "Date Of Bearth",
+    "SignUpScreen_gender": "Gender",
+    "SignUpScreen_Country": "Country",
+    "SignUpScreen_city": "City",
+    "SignUpScreen_bio": "Bio",
+    "SignUpScreen_role_in_team": "Role in Team",
+    "SignUpScreen_nationality": "Nationality",
+    "SignUpScreen_Must_be_at_least_8_characters": "Passwords must have: 8 or characters, 1 uppercase letter, 1 lowercase letter, 1 number, 1 special character",
+    "SignUpScreen_SignUp": "Sign Up",
+    "SignUpScreen_Alreadyhave": "Already have an Account?",
+    "SignUpScreen_Login": "Log in",
+
+
+
+    "HomeScreen_Settings":"Settings",
+    "HomeScreen_Profile":"Profile",
+    "HomeScreen_EditProfile":"Edit Profile",
+
+
+    "EditProfileScreen_EditProfile":"Edit Profile",
+    "EditProfileScreen_Submit":"Submit",
+
+    "MyProfileScreen_EditProfile":"My Profile",
+
+    
+    "HomeScreen_ChangeLanguage":"Change Language",
+    "HomeScreen_Logout":"Logout"
+   
+    
+
+
+}
