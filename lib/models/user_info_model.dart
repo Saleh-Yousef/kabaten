@@ -93,7 +93,7 @@ class Data {
     followStatus = json['follow_status'] ?? 'N/A';
     id = json['id'] ?? 'N/A';
     verifyToken = json['verify_token'] ?? 'N/A';
-    isPrivate = json['is_private'] ?? 'N/A';
+    isPrivate = json['is_private'];
     userType = json['user_type'] ?? 'N/A';
     team = json['team'] ?? 'N/A';
     teamMemberStatus = json['team_member_status'] ?? 'N/A';
